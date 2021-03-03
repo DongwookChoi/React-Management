@@ -1,6 +1,5 @@
 import React from 'react';
 import { post } from 'axios';
-import Customer from './Customer';
 
 class CustomerAdd extends React.Component {
 
